@@ -20,6 +20,14 @@ seoSecondaryKeywords:
   - hierarchical structures
   - governance dynamics
 seoOptimized: true
+topicFamily: personal
+topicFamilyConfidence: 0
+topicFamilyNotes: >-
+  None of the given topic families directly relate to international relations or research on
+  organizational structures. The post is an academic research project, not a software, devtool,
+  automation, data science or site/blog project. Since no family matches well, the best fit by
+  exclusion is 'personal' as it deals with markdown/journal content, though this is a weak fit (0
+  confidence).
 ---
 
 # Dynamic Hierarchies in International Institutions: Project Overview
@@ -59,3 +67,4 @@ Understanding this project requires familiarity with international relations the
 ## Summary
 
 This repository serves as a foundational resource on the dynamics of hierarchies in international institutions, primarily through a comprehensive research document. It provides a basis for further computational or analytical work to model and understand these complex governance structures.
+
