@@ -1,20 +1,28 @@
 ---
 slug: github-dynamic-hierarchies-international
 id: github-dynamic-hierarchies-international
-title: Dynamic Hierarchies in International Institutions
+title: Dynamic Hierarchies in International Institutions Research
 repo: justin-napolitano/dynamic-hierarchies-international
 githubUrl: https://github.com/justin-napolitano/dynamic-hierarchies-international
 generatedAt: '2025-11-24T21:34:37.747Z'
 source: github-auto
 summary: >-
-  This repository contains research and documentation related to the dynamics of
-  hierarchies within international institutions. The primary artifact is a
-  detailed document exploring theoretical and empirical aspects of hierarchical
-  structures in global governance.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  Explore research on hierarchical structures in global governance, including a
+  comprehensive document and future development plans.
+tags:
+  - international governance
+  - hierarchical structures
+  - research documentation
+  - data analysis
+  - Microsoft Word
+seoPrimaryKeyword: dynamic hierarchies in international institutions
+seoSecondaryKeywords:
+  - global governance research
+  - hierarchical dynamics
+  - data structuring
+  - computational analysis
+  - document conversion
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
