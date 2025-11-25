@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/dynamic-hierarchies-internationa
 generatedAt: '2025-11-24T21:34:37.747Z'
 source: github-auto
 summary: >-
-  Explore research on hierarchical structures in global governance with a
-  comprehensive document and future development plans.
+  Explore research on hierarchical structures in global governance with a comprehensive document and
+  future development plans.
 tags:
   - international governance
   - hierarchical structures
@@ -24,8 +24,8 @@ seoSecondaryKeywords:
   - computational analysis
   - document conversion
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: datascience
+topicFamilyConfidence: 0.8
 kind: project
 entryLayout: project
 showInProjects: true
@@ -72,3 +72,4 @@ No installation or runtime commands are applicable.
 ---
 
 *Note: This README is based on limited available information and inferred assumptions.*
+
