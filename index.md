@@ -1,33 +1,43 @@
 ---
 slug: github-dynamic-hierarchies-international
-title: Research on Dynamic Hierarchies in International Institutions
+title: Dynamic Hierarchies in International Institutions Overview
 repo: justin-napolitano/dynamic-hierarchies-international
 githubUrl: https://github.com/justin-napolitano/dynamic-hierarchies-international
 generatedAt: '2025-11-23T08:52:55.861482Z'
 source: github-auto
 summary: >-
-  Comprehensive research document examining evolving hierarchical structures within international
-  institutions and their governance dynamics.
+  Explore the dynamics of hierarchical relationships in international
+  institutions through qualitative research and documentation.
 tags:
   - international-relations
   - hierarchies
   - research-document
   - governance
   - organizational-structure
-seoPrimaryKeyword: dynamic hierarchies
+  - international relations
+  - hierarchical dynamics
+  - qualitative research
+  - data analysis
+  - organizational theory
+seoPrimaryKeyword: dynamic hierarchies in international institutions
 seoSecondaryKeywords:
-  - international institutions
   - hierarchical structures
-  - governance dynamics
+  - international governance
+  - policy outcomes
+  - research documentation
+  - organizational hierarchy
 seoOptimized: true
 topicFamily: personal
 topicFamilyConfidence: 0
 topicFamilyNotes: >-
-  None of the given topic families directly relate to international relations or research on
-  organizational structures. The post is an academic research project, not a software, devtool,
-  automation, data science or site/blog project. Since no family matches well, the best fit by
-  exclusion is 'personal' as it deals with markdown/journal content, though this is a weak fit (0
+  None of the given topic families directly relate to international relations or
+  research on organizational structures. The post is an academic research
+  project, not a software, devtool, automation, data science or site/blog
+  project. Since no family matches well, the best fit by exclusion is 'personal'
+  as it deals with markdown/journal content, though this is a weak fit (0
   confidence).
+kind: project
+id: github-dynamic-hierarchies-international
 ---
 
 # Dynamic Hierarchies in International Institutions: Project Overview
